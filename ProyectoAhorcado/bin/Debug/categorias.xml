@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categorias>
+    <Deportes>
+        <palabra>Futbol</palabra>
+        <palabra>Baloncesto</palabra>
+        <palabra>Voleibol</palabra>
+        <palabra>Calistenia</palabra>
+        <palabra>Balonmano</palabra>
+        <palabra>Natacion</palabra>
+    </Deportes>
+    <Comidas>
+        <palabra>Patatas con Huevos</palabra>
+        <palabra>Pasta a la Carbonara</palabra>
+        <palabra>Carne con patatas</palabra>
+        <palabra>Puchero</palabra>
+        <palabra>Macarrones</palabra>
+        <palabra>Albondigas</palabra>
+    </Comidas>
+    <Colores>
+        <palabra>Azul</palabra>
+        <palabra>Rojo</palabra>
+        <palabra>Verde</palabra>
+        <palabra>Marron</palabra>
+        <palabra>Amarillo</palabra>
+        <palabra>Morado</palabra>
+        <palabra>Turquesa</palabra>
+    </Colores>
+    <Países>
+        <palabra>España</palabra>
+        <palabra>Polonia</palabra>
+        <palabra>Italia</palabra>
+        <palabra>Alemania</palabra>
+        <palabra>Francia</palabra>
+        <palabra>Marruecos</palabra>
+        <palabra>Argentina</palabra>
+        <palabra>Andorra</palabra>
+    </Países>
+<Aleatorio>
+        <palabra>Albert Einstein</palabra>
+        <palabra>Visual Studio</palabra>
+        <palabra>La vida es bella</palabra>
+        <palabra>Querer es poder</palabra>
+        <palabra>Esta no se acierta</palabra>
+    </Aleatorio>
+</categorias>  
